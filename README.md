@@ -5,6 +5,8 @@
 
 **[Inspiration](https://github.com/sven20202020/qb-fishing)**
 
+Originally created by **[dojwun](https://github.com/dojwun/doj-fishing)**
+
 # About
 - Optimized
 - Fish anywhere
