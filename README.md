@@ -23,7 +23,7 @@ Originally created by **[dojwun](https://github.com/dojwun/doj-fishing)**
 - Added Shop for qb-shops 
 - Removed ability to buy from fishing npcs they are now just for renting boats
 - Seperated legal and illegal fishing sellers
-- Added Tackel Box to fishing pool
+- Added Tackle Box to fishing pool
 
 # Info
 - **[Rent](https://streamable.com/bymhyv)** a fishing boat
