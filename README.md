@@ -133,6 +133,7 @@ Originally created by **[dojwun](https://github.com/dojwun/doj-fishing)**
  ``` 
 - Add shop to qb-shops
 
+```
 	-- Config.Products:
 ["fishing"] = {
     [1] = {
@@ -175,7 +176,7 @@ Originally created by **[dojwun](https://github.com/dojwun/doj-fishing)**
     ["blipscale"] = 0.8,
     ["blipcolor"] = 38
 },
-
+```
 # Optional (if you are not using my **[qb-inventory](https://github.com/dojwun/qb-inventory)**)
 - This code is to display **[Inventory Tooltip](https://i.imgur.com/vnpIb2b.png)** 
 - inside ```qb-inventory/html/js/app.js``` look for the ```function FormatItemInfo```
