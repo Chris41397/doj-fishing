@@ -177,7 +177,7 @@ Originally created by **[dojwun](https://github.com/dojwun/doj-fishing)**
     ["blipcolor"] = 38
 },
 ```
-# Optional (if you are not using my **[qb-inventory](https://github.com/dojwun/qb-inventory)**)
+# Optional (if you are not using Dojwun **[qb-inventory](https://github.com/dojwun/qb-inventory)**)
 - This code is to display **[Inventory Tooltip](https://i.imgur.com/vnpIb2b.png)** 
 - inside ```qb-inventory/html/js/app.js``` look for the ```function FormatItemInfo```
 ```
